@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Yu-ChangCheng | A MSCS student in GA Tech.
-- 👀 I’m interested in Web dev & Game dev & Computer Vision
-- 🌱 I’m currently learning Java, Python, Javascript, Unity, C#
-- 💞️ I’m looking to collaborate on any backend/ full-stack development projects 
+- 👋 Hi, I’m @Yu-ChangCheng | MSCS @ GA Tech.
+- 👀 I’m interested in various fields, from web development to Machine Learning Projects. Feel free to browse my hub and share ideas.
+- 🌱 I’m currently learning Python, Java, Javascript, Unity, C#
+- 💞️ I’m looking to collaborate on any backend or ML projects 
 - 📫 How to reach me by Email: ycheng345@gatech.edu / by Phone: (765)-701-0089
 <!---
 Yu-ChangCheng/Yu-ChangCheng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
