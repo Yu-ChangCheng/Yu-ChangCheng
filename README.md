@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @Yu-ChangCheng | MSCS @ GA Tech | Software Engineer | I post technical interview questions every day 
   
 - I help people on
-1. reviewing resume
-2. mocking interview
-3. sharing job hunting tips
-4. developing fun projects
+  
+- 1. reviewing resume
+- 2. mocking interview
+- 3. sharing job hunting tips
+- 4. developing fun projects
 
 - 📫 How to reach me by Email: ycheng345@gatech.edu / by Phone: (765)-701-0089
 <!---
