@@ -4,7 +4,7 @@
   
 - Reviewing resume
 - Mocking interview
-- Sharing job hunting tips
+- Finding their desired job
 - Consulting on software development related questions
 
 - 📫 How to reach me by Email: ycheng345@gatech.edu / by Phone: (765)-701-0089
