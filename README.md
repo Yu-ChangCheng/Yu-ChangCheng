@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yu-ChangCheng | MSCS @ GA Tech | Software Engineer | I post technical interview questions every day 
   
-I help people on
+- I help people on
 1. reviewing resume
 2. mocking interview
 3. sharing job hunting tips
