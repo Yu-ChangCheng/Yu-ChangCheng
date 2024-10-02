@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Yu-ChangCheng | MSCS @ GA Tech.
-- 👀 I’m interested in Web Development/ Data Engineering. Feel free to browse my hub and share ideas.
-- 🌱 I’m currently learning Python, Javascript(Node, Express, React, PostgreSQL), Java, Unity, C#
-- 💞️ I’m looking to collaborate on any full-stack development projects
+- 👋 Hi, I’m @Yu-ChangCheng | MSCS @ GA Tech | I post technical interview questions every day
+- I can help people on reviewing resume/ mocking interview/ sharing job hunting tips and I am also developing some side projects as hobby. 
 - 📫 How to reach me by Email: ycheng345@gatech.edu / by Phone: (765)-701-0089
 <!---
 Yu-ChangCheng/Yu-ChangCheng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
